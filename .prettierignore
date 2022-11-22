@@ -1,0 +1,2 @@
+# Ignore html templates when working with Hugo
+*.html
